@@ -21,11 +21,13 @@ library(tidyr)
 ```
 
 Data we will be using:
+
 ```{r}
 data2019 <-read.csv("2019.csv")
 
 ```
 
+### You can access the World Happiness Report dataset on [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness).
 
 # Introduction
 
